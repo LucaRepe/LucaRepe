@@ -1,5 +1,6 @@
 - Hi, I’m @LucaRepe
-- Computer Engineering student at Università degli Studi di Genova
+- Computer Engineering graduate at Università degli Studi di Genova
+- Currently working at RINA Consulting
 - How to reach me: lukarepe@live.it
 
 <!---

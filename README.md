@@ -1,7 +1,7 @@
 - Hi, I’m @LucaRepe
-- Computer Engineering graduate at Università degli Studi di Genova
-- Currently working at RINA Consulting
-- How to reach me: lukarepe@live.it
+- Computer Engineering graduate at University of Genoa
+- Currently working as a Cyber Security Engineer at RINA Consulting
+- You can reach me at lukarepe@live.it
 
 <!---
 LucaRepe/LucaRepe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

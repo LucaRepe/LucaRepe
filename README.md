@@ -1,6 +1,6 @@
 - Hi, I’m @LucaRepe
 - Computer Engineering graduate at University of Genoa
-- Currently working as a Cyber Security Engineer at RINA Consulting
+- Currently working as a Cyber Security Engineer at Leonardo
 - You can reach me at lukarepe@live.it
 
 <!---
